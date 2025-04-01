@@ -51,6 +51,7 @@
 - **특수 버튼 스타일링**: `AC`, `DEL` 등의 특수 버튼은 색상을 다르게 설정하여 주요 기능을 강조합니다.
 
 ## 동작 화면
+![Image](https://github.com/user-attachments/assets/f15f5cc8-590a-455d-a0f9-29d6e242a71e)
 
 ## 브랜치 전략
 
